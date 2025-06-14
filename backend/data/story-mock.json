@@ -1,0 +1,12 @@
+
+[
+  {
+    "scene": 1,
+    "setting": "La cima de una montaña flotante",
+    "characters": ["Chica", "Espíritu"],
+    "actions": "El espíritu se le aparece y le ofrece una decisión.",
+    "dialogues": [
+      { "speaker": "Espíritu", "line": "¿Quieres quedarte o saltar al vacío y descubrir tu destino?" }
+    ]
+  }
+]
