@@ -1,2 +1,5 @@
 .env
 *.env
+*.mp3
+*.jpg
+*.wav
